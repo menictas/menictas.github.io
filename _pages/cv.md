@@ -11,30 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematical Statistics, University of Technology Sydney, First Class Honours, 2008-2011
+  * Honours thesis supervision by Prof. Deborah Street and Dr. Narelle Smith.
 
-Work experience
+* Ph.D in Mathematical Statistics, University of Technology Sydney, 2012-2015
+  * PhD supervision by [Prof. Matt Wand](http://matt-wand.utsacademics.info/).
+
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2015: Fellow at [Insight Data Science](https://www.insightdatascience.com)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2015-2016: Data Scientist at [Custora](https://www.custora.com/)
 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2017: Data Scientist at [Atlassian](https://www.atlassian.com/)
+
+* 2018: Postdoctoral Researcher at [University of Technology Sydney](https://www.uts.edu.au/)
 
 Publications
 ======

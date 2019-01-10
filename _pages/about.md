@@ -10,9 +10,8 @@ redirect_from:
 
 ## Bio
 
-I am a postdoctoral researcher within Professor Susan Murphy's
-Statistical Reinforcement Lab in the Department of Statistics at Harvard
-University. Prior to this, I was ...
+I am a postdoctoral researcher within the Department of Statistics at Harvard
+University.
 
 ## Research Interests
 
