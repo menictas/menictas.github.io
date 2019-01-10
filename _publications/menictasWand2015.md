@@ -4,4 +4,3 @@ collection: publications
 venue: 'Australian and New Zealand Journal of Statistics'
 paperurl: 'http://menictas.github.io/files/Menictas15.pdf'
 ---
-[PDF file](http://menictas.github.io/files/Menictas15.pdf)
