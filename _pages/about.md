@@ -10,9 +10,7 @@ redirect_from:
 
 ## Bio
 
-I am a postdoctoral researcher within the Department of Statistics at Harvard
-University.
-
-## Research Interests
-
-My research interests involve the use adaptive interventions ...
+I am a postdoctoral researcher in the Department of Statistics at Harvard
+University. I work within the
+[Statistical Reinforcement Learning Lab](http://people.seas.harvard.edu/~samurphy/lab/overview.html)
+supervised by Professor Susan Murphy.
