@@ -12,7 +12,8 @@ redirect_from:
 Education
 ======
 * B.S. in Mathematical Statistics, University of Technology Sydney, First Class Honours, 2008-2011
-  * Honours thesis supervision by Prof. Deborah Street and Dr. Narelle Smith.
+  * Honours thesis supervision by [Prof. Deborah Street](https://www.uts.edu.au/staff/deborah.street)
+  and [Dr. Narelle Smith](https://www.uts.edu.au/scholarship/narelle-smith-memorial-prize).
 
 * Ph.D in Mathematical Statistics, University of Technology Sydney, 2012-2015
   * PhD supervision by [Prof. Matt Wand](http://matt-wand.utsacademics.info/).
