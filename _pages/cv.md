@@ -27,6 +27,8 @@ Experience
 
 * 2018: Postdoctoral Researcher at [University of Technology Sydney](https://www.uts.edu.au/)
 
+* 2019: Postdoctoral Researcher at [Harvard University](https://www.harvard.edu/)
+
 Publications
 ======
   <ul>{% for post in site.publications %}
