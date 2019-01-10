@@ -8,4 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-This is Marianne Menictas's home on the web!
+# Bio
+
+I am a postdoctoral researcher within Professor Susan Murphy's
+Statistical Reinforcement Lab in the Department of Statistics at Harvard
+University. Prior to this, I was ...
+
+# Research Interests
+
+My current research involves the use adaptive interventions ...
