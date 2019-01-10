@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-# Bio
+## Bio
 
 I am a postdoctoral researcher within Professor Susan Murphy's
 Statistical Reinforcement Lab in the Department of Statistics at Harvard
 University. Prior to this, I was ...
 
-# Research Interests
+## Research Interests
 
-My current research involves the use adaptive interventions ...
+My research interests involve the use adaptive interventions ...
