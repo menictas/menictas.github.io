@@ -47,3 +47,5 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
+
+[Download resume here](http://menictas.github.io/files/resume.pdf)
