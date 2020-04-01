@@ -1,8 +1,31 @@
----
+<!-- ---
 title: "Streamlined Computing for Variational Inference with Higher Level Random Effects"
 collection: publications
 venue: 'Under consideration'
 date: 2019-03-01
----
+--- -->
 
-[Nolan, T.T., Menictas, M. and Wand, M.P. Streamlined Computing for Variational Inference with Higher Level Random Effects. Submitted](http://menictas.github.io/files/NMWpap.pdf)
+Nolan, T.T., Menictas, M. and Wand, M.P.
+[Streamlined Computing for Variational Inference with Higher Level Random Effects](http://menictas.github.io/files/NMWpap.pdf)
+
+
+<!-- Nolan, T.H. and Wand, M.P.
+Solutions to Multilevel Sparse Matrix Problems.
+[PDF file]
+
+
+Nolan, T.H. and Wand, M.P.
+Solutions to Multilevel Sparse Matrix Problems.
+[PDF file]
+
+Nolan, T.H., Menictas, M. and Wand, M.P.
+Streamlined Computing for Variational Inference with Higher Level Random Effects.
+[PDF file]
+
+Menictas, M., Nolan, T.H., Simpson, D.G. and Wand, M.P.
+Streamlined Variational Inference for Higher Level Group-Specific Curve Models.
+[PDF file]
+
+Menictas, M., Di Credico, G. and Wand, M.P.
+Streamlined Variational Inference for Linear Mixed Models with Crossed Random Effects.
+[PDF file] -->
