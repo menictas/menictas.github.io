@@ -1,12 +1,11 @@
-<!-- ---
+---
 title: "Streamlined Computing for Variational Inference with Higher Level Random Effects"
 collection: publications
-venue: 'Under consideration'
+venue: 'Submitted'
 date: 2019-03-01
---- -->
+---
 
-Nolan, T.T., Menictas, M. and Wand, M.P.
-[Streamlined Computing for Variational Inference with Higher Level Random Effects](http://menictas.github.io/files/NMWpap.pdf)
+[Download here](http://menictas.github.io/files/NMWpap.pdf)
 
 
 <!-- Nolan, T.H. and Wand, M.P.
