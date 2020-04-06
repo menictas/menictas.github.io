@@ -1,11 +1,11 @@
 ---
-title: "Streamlined Variational Inference for Linear Mixed Models with Crossed Random Effects"
+title: "Streamlined Empirical Bayes Fitting of Linear Mixed Models in Mobile Health"
 collection: publications
 venue: 'Submitted'
 date: 2020-03-01
 ---
 
-[Download here](http://menictas.github.io/files/MDCWpap.pdf)
+[Download here](https://arxiv.org/abs/2003.12881)
 
 
 <!-- Nolan, T.H. and Wand, M.P.
