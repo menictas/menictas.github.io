@@ -1,7 +1,7 @@
 ---
 title: "Streamlined Variational Inference for Higher Level Group-Specific Curve Models"
 collection: publications
-venue: 'Under consideration'
+venue: 'Submitted'
 date: 2019-03-01
 ---
 
