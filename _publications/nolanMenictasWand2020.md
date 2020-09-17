@@ -2,9 +2,9 @@
 title: "Nolan, T.H., Menictas, M. and Wand, M.P.
 Streamlined Computing for Variational Inference with Higher Level Random Effects."
 collection: publications
-venue: 'Submitted'
-date: 2019-03-01
+venue: 'Journal of Machine Learning Research'
+date: 2020-09-17
 
 ---
 
-[Download here](http://menictas.github.io/files/NMWpap.pdf)
+[Download here](https://jmlr.org/papers/v21/19-222.html)
