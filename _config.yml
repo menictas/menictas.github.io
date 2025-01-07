@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Marianne Menictas"
 title_separator          : "-"
 name                     : &name "Marianne Menictas"
-description              : &description "Postdoctoral Researcher at Harvard University"
+description              : &description "Staff Data Scientist at Grubhub"
 url                      : https://menictas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "menictas.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Marianne Menictas"
   avatar           : "marianne_website.JPG"
-  bio              : "Postdoctoral Researcher at Harvard University"
+  bio              : "Staff Data Scientist at Grubhub"
   location         : "Cambridge, MA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=4SiqBEcAAAAJ"
-  email            : "marianne_menictas@fas.harvard.edu"
+  email            : "mmenictas@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
