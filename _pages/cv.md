@@ -16,7 +16,7 @@ Education
   and [Dr. Narelle Smith](https://www.uts.edu.au/scholarship/narelle-smith-memorial-prize).
 
 * Ph.D in Mathematical Statistics, University of Technology Sydney, 2012-2015
-  * PhD supervision by [Prof. Matt Wand](http://matt-wand.utsacademics.info/).
+  * PhD supervision by [Prof. Matt Wand](https://matt-p-wand.net/).
 
 Experience
 ======

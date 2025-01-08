@@ -17,7 +17,7 @@ at Harvard University within the
 [Statistical Reinforcement Learning Lab](http://people.seas.harvard.edu/~samurphy/lab/overview.html)
 supervised by [Professor Susan Murphy](http://people.seas.harvard.edu/~samurphy/). Prior to that, I was
 a postdoctoral researcher at University of Technology Sydney, supervised by
-[Professor Matt Wand](http://matt-wand.utsacademics.info/).
+[Professor Matt Wand](https://matt-p-wand.net/).
 
 ## Research interests
 
