@@ -1,8 +1,8 @@
 ---
-title: "Menictas, M. and Wand, M.P.
-Variational Inference for Marginal Longitudinal Semiparametric Regression."
+title: "Variational Inference for Marginal Longitudinal Semiparametric Regression"
 collection: publications
-venue: 'Stat, 2, 61-71.'
+venue: 'Stat'
+citation: "Menictas, M. and Wand, M.P., 2013. Variational inference for marginal longitudinal semiparametric regression. Stat, 2(1), pp.61-71."
 date: 2013-05-18
 ---
 

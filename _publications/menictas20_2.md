@@ -1,7 +1,8 @@
 ---
-title: "Menictas, M., Tomkins, S., and Murphy, S.A. Streamlined Empirical Bayes Fitting of Linear Mixed Models in Mobile Health."
+title: "Streamlined Empirical Bayes Fitting of Linear Mixed Models in Mobile Health"
 collection: publications
-venue: 'ArXiv (unpublished manuscript)'
+venue: 'arXiv preprint'
+citation: "Menictas, M., Tomkins, S. and Murphy, S.A., 2020. Streamlined Empirical Bayes Fitting of Linear Mixed Models in Mobile Health. arXiv preprint arXiv:2003.12881."
 date: 2020-03-01
 ---
 

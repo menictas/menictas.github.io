@@ -1,7 +1,8 @@
 ---
-title: "Menictas, M. Variational inference for heteroscedastic and longitudinal regression models."
+title: "Variational inference for heteroscedastic and longitudinal regression models"
 collection: publications
 venue: 'Doctoral dissertation'
+citation: "Menictas, M., 2015. Variational inference for heteroscedastic and longitudinal regression models (Doctoral dissertation)."
 date: 2015-12-01
 ---
 

@@ -1,7 +1,8 @@
 ---
-title: "Menictas, M., Rabbi, M., Murphy, S.A. Artificial intelligence decision-making in mobile health."
+title: "Artificial intelligence decision-making in mobile health"
 collection: publications
-venue: 'The Biochemist, 41 (5), 20-24.'
+venue: 'The Biochemist'
+citation: "Menictas, M., Rabbi, M., Klasnja, P. and Murphy, S., 2019. Artificial intelligence decision-making in mobile health. The biochemist, 41(5), pp.20-24."
 date: 2020-01-01
 ---
 

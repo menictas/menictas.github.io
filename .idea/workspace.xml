@@ -5,7 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d593a4b-f188-4f6e-bfb7-96422c80711a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_publications/battalio21.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/battalio21.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_publications/carpenter20.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/carpenter20.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_publications/groen10.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/groen10.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_publications/menictas13.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/menictas13.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_publications/menictas15_1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/menictas15_1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_publications/menictas15_2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/menictas15_2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_publications/menictas20_1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/menictas20_1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_publications/menictas20_2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/menictas20_2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_publications/menictas21.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/menictas21.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_publications/menictas23.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/menictas23.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_publications/menictas25.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/menictas25.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_publications/nolan20.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/nolan20.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +67,7 @@
       <updated>1736194832427</updated>
       <workItem from="1736194834034" duration="25123000" />
       <workItem from="1736433343819" duration="2525000" />
-      <workItem from="1736868263042" duration="680000" />
+      <workItem from="1736868263042" duration="1340000" />
     </task>
     <servers />
   </component>
