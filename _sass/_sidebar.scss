@@ -77,13 +77,15 @@
 
   @include breakpoint($large) {
     display: block;
-    width: auto;
-    height: auto;
+    width: 175px;  // Ensure width and height are equal
+    height: 175px; // Ensure width and height are equal
   }
 
   img {
-    max-width: 175px;
-    border-radius: 50%;
+    width: 100%;      // Ensures the image fills the container
+    height: 100%;     // Ensures the image fills the container
+    border-radius: 50%; // Ensures the image is always a circle
+    object-fit: cover; // Ensures the image covers the area without distortion
 
     @include breakpoint($large) {
       padding: 5px;
