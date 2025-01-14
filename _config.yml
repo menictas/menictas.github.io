@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Marianne Menictas"
 title_separator          : "-"
 name                     : &name "Marianne Menictas"
-description              : &description "Staff Data Scientist at Grubhub"
+description              : &description "Data Science Researcher"
 url                      : https://menictas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "menictas.github.io"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Marianne Menictas"
-  avatar           : "marianne_website.JPG"
-  bio              : "Staff Data Scientist at Grubhub"
+  avatar           : "marianne_uts1.JPG"
+  bio              : "Data Science Researcher"
   location         : "Cambridge, MA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=4SiqBEcAAAAJ"
@@ -107,7 +107,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "mmenictas"
+  twitter          :
   vine             :
   weibo            :
   xing             :
