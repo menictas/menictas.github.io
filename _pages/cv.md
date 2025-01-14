@@ -20,15 +20,17 @@ Education
 
 Experience
 ======
-* Summer 2015: Fellow at [Insight Data Science](https://www.insightdatascience.com)
+* Summer 2015: Fellow at [Insight Data Science](https://blog.insightdatascience.com)
 
-* 2015-2016: Data Scientist at [Custora](https://www.custora.com/)
+* 2015-2016: Data Scientist at Custora (acquired by [Amperity](https://amperity.com))
 
 * 2017: Data Scientist at [Atlassian](https://www.atlassian.com/)
 
 * 2018: Postdoctoral Researcher at [University of Technology Sydney](https://www.uts.edu.au/)
 
-* 2019: Postdoctoral Researcher at [Harvard University](https://www.harvard.edu/)
+* 2019: Postdoctoral Researcher at [Harvard University](https://people.seas.harvard.edu/~samurphy/lab/overview.html)
+
+* 2021-current: Data Scientist at [Grubhub](https://www.grubhub.com)
 
 Publications
 ======
